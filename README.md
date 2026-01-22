@@ -1,0 +1,1 @@
+# auto-clip-studio-video-manager
